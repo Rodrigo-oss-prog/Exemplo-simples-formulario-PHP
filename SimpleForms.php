@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head><title>Aprendendo manipular formulário com PHP</title></head
+<head>
+    <meta charset="utf-8" />
+    <title>Aprendendo manipular formulário com PHP</title>
+    <style>
+        p {
+            font-size: 18px;
+            color: red;
+            text-shadow: 1px 1px 1px black;
+        }
+    </style>
+</head
 <body>
 <h1>Formulário PHP</h1>
 <?php
